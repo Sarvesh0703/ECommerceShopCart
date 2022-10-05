@@ -25,14 +25,14 @@
         font-size: 1.5rem;
     }
     .cart{
-        width: 320px;
+        width: 360px;
     }
 }
 
-
-@media (max-width: 360px){
+/* For Mobile Device */
+@media (max-width: 370px){
     .shop{
-        margin-top: 1rem;
+        margin-top: .5rem;
     }
     .cart{
         width: 250px;

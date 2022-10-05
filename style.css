@@ -248,10 +248,13 @@ header {
     background-color: var(--text-color);
     color: var(--bg-color);
     padding: 10px;
+    border-radius: 4px;
+    font-family: 'Poppins', sans-serif;
     cursor: pointer;
 }
 
 .add-cart:hover {
     background-color: hsl(249, 32%, 17%);
     color: var(--main-color);
+    border: 1px solid silver;
 }
